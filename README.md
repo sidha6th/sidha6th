@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sidha6th&theme=darkhub)]
 <!--
 **sidha6th/sidha6th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
