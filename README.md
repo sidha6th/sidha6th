@@ -46,3 +46,5 @@
 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sidha6th&theme=darkhub)
+
+[![Visits Badge](https://badges.pufler.dev/visits/sidha6th)](https://github.com/sidha6th)
