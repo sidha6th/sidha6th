@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/sidha6th/sidha6th/)](https://github.com/sidha6th)
+
 ### Hi there 👋
 
 <h1 align="center">I'm Sidharth</h1>
@@ -46,5 +48,3 @@
 <br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sidha6th&theme=darkhub)
-
-[![Visits Badge](https://badges.pufler.dev/visits/sidha6th/sidha6th/)](https://github.com/sidha6th)
